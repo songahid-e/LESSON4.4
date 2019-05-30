@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.lesson44.MainActivity">
+    <item
+        android:id="@+id/action_order"
+        android:title="@string/order_menu"
+        android:orderInCategory="10"
+        android:icon="@drawable/ic_shopping_cart"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_status"
+        android:orderInCategory="20"
+        android:title="@string/status_menu"
+        android:icon="@drawable/ic_shopping_info"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_favorites"
+        android:orderInCategory="30"
+        android:title="@string/favorites_menu"
+        android:icon="@drawable/ic_shopping_favorite"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_contact"
+        android:orderInCategory="1000"
+        android:title="@string/contact_menu"
+        app:showAsAction="never" />
+</menu>

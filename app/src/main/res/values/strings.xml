@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">LESSON4.3</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="froyo_is_premium_self_serve_frozen_yogurt_text">FroYo is premium self-serve frozen yogurt.</string>
+    <string name="droid_desserts_text">Droid Desserts</string>
+    <string name="donuts_are_glazed_and_sprinkled_with_candy_text">Donuts are glazed and sprinkled with candy.</string>
+    <string name="ice_cream_sandwiches_have_chocolate_wafers_and_vanilla_filling_text">Ice cream sandwiches have chocolate wafers and vanilla filling.</string>
+    <string name="donut_order_message">You ordered a donut.</string>
+    <string name="ice_cream_order_message">You ordered an ice cream sandwich.</string>
+    <string name="froyo_order_message">You ordered a FroYo.</string>
+    <string name="name_label">Name</string>
+    <string name="address_label">Address</string>
+    <string name="phone_label">Phone</string>
+    <string name="note_label">Note</string>
+    <string name="delivery_method_header">Choose a deliver method:</string>
+    <string name="radio_button1_label">Same day messenger services</string>
+    <string name="radio_button2_label">Next day ground delivery</string>
+    <string name="radio_button3_label">Pick up</string>
+    <string name="choose_a_delivery_method">Choose a delivery method:</string>
+    <string name="name_hint">Enter your full name here</string>
+    <string name="address_hint">Enter your address here</string>
+    <string name="phone_hint">Enter your phone number here</string>
+    <string name="note_hint">Enter some notes here</string>
+    <string name="order_label">Order</string>
+    <string name="same_day_messenger_service_label">Same day messenger service:</string>
+    <string name="next_day_ground_delivery_label">Next day ground delivery</string>
+    <string name="pick_up_label">Pick up</string>
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="settings_menu">Settings</string>
+    <string name="order_menu">Order</string>
+    <string name="status_menu">Status</string>
+    <string name="favorites_menu">Favorites</string>
+    <string name="contact_menu">Contact</string>
+    <string name="button_text">Button</string>
+    <string name="button_date">DATE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
